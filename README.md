@@ -1,5 +1,9 @@
 # Welcome Creators
 
+Advanced class is protected from EVIL, Dip Sheep, Clowns, ...
+
+https://github.com/adico1/CreatorsAdvanced
+
 what are WE all about
 - LIFE EXPANSION beyond
   - Earth
@@ -13,6 +17,9 @@ Tools
 -- REAL Human Robots
 - Space
 -- Asteriod Mining for Robots Reproduction
+- [Minified-to-Spec Generator](MINIFIED-TO-SPEC.README.md)
+- [Spec-to-Spec Feature Reducer](SPEC-TO-SPEC.README.md)
+- [Portable AI Tabs VS Code Extension](portable-ai-extension/README.md)
 
 Still Missing
 - Robot Reproduction exact computation
@@ -29,14 +36,14 @@ why should we care? because this is OUR story
 the longer we live depends on how much we want to stay alive
 
 
-**distribute!** 
+**distribute!**
 **save your self** from being a **cannibalize civilization**
 turn the entire earth direction at once
 to the direction of no surrender
 direction of no fear
 direction of stay alive forever for everyone
-at all cost! 
-into a life thriving teaming flowing 
+at all cost!
+into a life thriving teaming flowing
 
 
 Done
@@ -51,5 +58,4 @@ Done
 - Legally and in clear mind I adopted a famility in Afrika, it costs me 200$ a month - hey also work for me - like my kids do!
 - I will educate the entire world with my knowledge.
 - this github
-- 
-
+-
