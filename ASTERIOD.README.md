@@ -1,3 +1,6 @@
+ChatGPT Shared Conversation
+https://chatgpt.com/share/6a58cecd-71a0-83ea-821a-2c7c72d4e7fc
+
 Asteroid mining is the theoretical extraction of water, rare metals, and volatiles from near-Earth objects. While full-scale operations are decades away, companies are actively testing technology. The goal is to bypass terrestrial environmental damage and create in-space fueling depots to support deep space exploration. [[1](https://www.reddit.com/r/space/comments/cohbis/is_asteroid_mining_viable/#:~:text=Technological%20Readiness:%20The%20technology%20required%20for%20full%2Dscale,machinery%2C%20smelting%2C%20and%20refining%20in%20space%2C%20do), [2](https://en.wikipedia.org/wiki/Asteroid_mining#:~:text=Asteroid%20mining%20is%20the%20hypothetical%20and%20technically,other%20minor%20planets%2C%20including%20near%2DEarth%20objects.%20Overv), [3](https://www.youtube.com/watch?v=y8XvQNt26KI#:~:text=casually%20watching%20a%20video%20on%20YouTube%20on,this%20progress%20and%20all%20the%20wonderful%20machi), [4](https://techport.nasa.gov/projects/33509#:~:text=This%20SBIR%20Phase%2D1%20project%20will%20demonstrate%20the,%22Optical%20Mining%22.%20Optical%20mining%20is%20an%20app), [5](https://evona.com/what-is-asteroid-mining/#:~:text=A%20Career%20in%20Asteroid%20Mining%20*%20Astronautical,spacecraft%20and%20their%20components%2C%20aimed%20at%20asteroid)]
 
   
