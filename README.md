@@ -1,8 +1,13 @@
 # Welcome Creators
 
-Sefer Hayetzira material need people with time to uncover unified deterministic computation we have overlooked.
+Sefer Hayetzira material need people with time to uncover unified deterministic computation we have overlooked. Years of competition led to non unified software development
+
 I need SMART people
-to help me bring Sefer Hayetzira to light!
+to help me bring 
+- Robots AZAM Kernel to light!
+- Through
+	- Unified development 
+	- Sefer Hayetzira Language Technologies 
 
 Check out the line I left public to understand the connection between the bibles and software development 
 [[SY/פרק 1 שורה 5]](SY/chapter1line5.md)
