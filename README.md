@@ -1,10 +1,23 @@
 # Welcome Creators
 
-Advanced class is protected from EVIL, Dip Sheep, Clowns, ...
+I need smart people i can trust 
+to help me bring this to light!
 
-https://github.com/adico1/CreatorsAdvanced
+Advanced parts of SY 
+are protected https://github.com/adico1/CreatorsAdvanced
+Contact me to be added!
 
-what are WE all about
+**Support me!**
+Buy my Sci-Fi Book
+https://adico.gumroad.com/l/TarrakRevenge
+
+
+**WE believe LIFE EXPANSION 
+is what we are all about**
+
+Biological life is expansive and take billion of years to become
+It is OUR mission to bring biological life to space
+
 - LIFE EXPANSION beyond
   - Earth
   - Solar System
@@ -20,6 +33,7 @@ Tools
 - [Minified-to-Spec Generator](MINIFIED-TO-SPEC.README.md)
 - [Spec-to-Spec Feature Reducer](SPEC-TO-SPEC.README.md)
 - [Portable AI Tabs VS Code Extension](portable-ai-extension/README.md)
+- [Book-to-Short-Video Movie Pipeline](book-movie-pipeline/README.md)
 
 Still Missing
 - Robot Reproduction exact computation
