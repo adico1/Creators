@@ -1,0 +1,166 @@
+עשר ספירות בלי מה מדתן עשר שאין להם סוף עומק ראשית ועומק אחרית עומק טוב ועומק רע עומק רום ועומק תחת עומק מזרח ועומק מערב עומק צפון ועומק דרום אדון יחיד אל מלך נאמן מושל בכולם ממעון קדשו ועד עדי עד:
+
+---
+
+משפט זה לבדו, מתאר עולם ומלואו
+הוא מתאר מעטפת כל דבר, יקום, וגם תא.
+מרחב תלת מימד, בתוך מעטפת מערכת על - רום אל תחת של קלט ופלט הניזונים ממקורות פנימיים וחיצוניים כמו כל תא כך גם הקוסמוס כולו - מבנה אחוד.
+
+שכבות מערכת הנראות או בלתי נראות של שכבות קליפות בצל בתוך בצל
+מכל נקודת מבט על הדבר, פנימה, עד ליבה אחודה כגון ליבת כדור הארץ המחזיקה כל הקשרים בכובד המשיכה עד שחכם ישחרר אותה ויקח אחריות.
+
+עומק טוב ועומק רע - רב משמעי מנקודת מבט, כממשק מתאר זרימה מקלט אל תהליך אל פלט ובחזרה, כרגש מתאר אל כל אינסוף אינסוף האינסופי של הוריאציות של רוגז או שוחק.
+
+משפט זה לבדו, מתאר תקן לכל דבר ודבר.
+
+
+```python
+SHPHIROT_BLI_MA=10
+OMEK_RASHIT
+OMEK_AHRIT
+OMEK_TOV
+OMEK_RA
+OMEK_ROM
+OMEK_TAHAT
+OMEK_MIZRAH
+OMEK_MAARAV
+OMEK_TZFON
+OMEK_DAROM
+ODON_YAHID EL MELECH_NEEMAN: [MOSHEL: ALL, FROM: MAAON_KADSHO]
+
+```
+
+לדוגמא:
+ממשק אחוד
+
+```python
+dimensions = {
+    "RASHIT": "ראשית",
+    "AHRIT": "אחרית",
+    "TOV": "טוב",
+    "RA": "רע",
+    "ROM": "רום",
+    "TAHAT": "תחת",
+    "MIZRAH": "מזרח",
+    "MAARAV": "מערב",
+    "TZFON": "צפון",
+    "DAROM": "דרום",
+}
+
+authority = {
+    "lord": "ODON_YAHID",
+    "king": "EL_MELECH_NEEMAN",
+    "rules": "ALL",
+    "source": "MAAON_KADSHO",
+}
+
+libraries = {
+    "python": ["dataclasses"],
+    "runtime": ["CPython"],
+}
+
+code = "print(envelope)"
+
+metadata = {
+    "origin": "MAAON_KADSHO",
+    "scope": "unified",
+    "created_by": "pasuk_interface",
+}
+
+envelope = {
+    "envelope": {
+        "dimensions": dimensions,
+        "authority": authority,
+        "libraries": libraries,
+        "code": code,
+        "metadata": metadata,
+    }
+}
+
+print(envelope)
+```
+
+## שימושים עם Unified Envelope
+
+1. שימוש כעטיפה לספריות חיצוניות
+
+```python
+third_party_libs = {
+    "numpy": "1.26.0",
+    "pandas": "2.1.0",
+}
+
+envelope["envelope"]["libraries"]["third_party"] = third_party_libs
+
+envelope["envelope"]["code"] = "import numpy as np\nimport pandas as pd\nprint('wrapped')"
+
+print(envelope)
+```
+
+2. יצירת חבילת ספריות מאוחדת חדשה
+
+```python
+new_unified_libs = {
+    "unified": [
+        "core_utils",
+        "data_flow",
+        "security_guard",
+    ]
+}
+
+envelope["envelope"]["libraries"].update(new_unified_libs)
+
+envelope["envelope"]["metadata"]["generated_libs"] = True
+
+print(envelope["envelope"]["libraries"])
+```
+
+3. הרחבת המעטפת עם פיצ׳ר קונפיגורציה
+
+```python
+config = {
+    "mode": "composition",
+    "logging": "verbose",
+    "source": "embedded",
+}
+
+envelope["envelope"]["metadata"]["config"] = config
+
+envelope["envelope"]["code"] = "# runtime configuration embedded in the unified envelope"
+
+print(envelope["envelope"]["metadata"])
+```
+
+4. הפיכת המעטפת לאובייקט מודולרי לזרימה
+
+```python
+def build_envelope(dimensions, authority, libraries, code, metadata):
+    return {
+        "envelope": {
+            "dimensions": dimensions,
+            "authority": authority,
+            "libraries": libraries,
+            "code": code,
+            "metadata": metadata,
+        }
+    }
+
+modular = build_envelope(
+    dimensions,
+    authority,
+    envelope["envelope"]["libraries"],
+    envelope["envelope"]["code"],
+    envelope["envelope"]["metadata"],
+)
+
+print(modular)
+```
+
+5. שיתוף והעברה של המעטפת כ־artifact
+
+```python
+import json
+
+serialized = json.dumps(envelope, ensure_ascii=False, indent=2)
+print(serialized)
+```
