@@ -16,6 +16,17 @@ https://adico.gumroad.com/l/TarrakRevenge
 
 ---
 
+The Wild Wild West was not about Gold! it was about life expansion!
+
+**WE believe
+LIFE DISTRIBUTION AND
+LIFE EXPANSION
+is what HUMANS are all meant to become**
+[[BEYOND.EARTH.README]](BEYOND.EARTH.README.md)
+
+Biological life is expansive and take billion of years to become
+It is OUR mission to bring biological life to space
+
 UPCOMING EXTINCIONS
 
 - Meteor killed the Dinosaurus it can happend to us!
@@ -23,13 +34,6 @@ UPCOMING EXTINCIONS
 - creating ROBOTS while we not yet understand ourself.
 - Biological extinctions cannot be rollled back - [[UPCOMING.EXTINCTIONS.README]](UPCOMING.EXTINCTIONS.README.md)
 
-LIFE DISTRIBUTION AND
-**WE believe LIFE EXPANSION
-is what we are all meant to be**
-[[BEYOND.EARTH.README]](BEYOND.EARTH.README.md)
-
-Biological life is expansive and take billion of years to become
-It is OUR mission to bring biological life to space
 
 - LIFE EXPANSION beyond
   - Earth
