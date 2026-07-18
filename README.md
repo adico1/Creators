@@ -1,8 +1,10 @@
 # Welcome Creators
 
-Sefer Hayetzira material need people with time to uncover deterministic computation we have overlooked.
+Sefer Hayetzira material need people with time to uncover unified deterministic computation we have overlooked.
 I need SMART people
 to help me bring Sefer Hayetzira to light!
+
+Check out the line I left public to understand the connection between the JEWISH BIBLES and software development [[SY/פרק 1 שורה 5]](SY/פרק 1 שורה 5)
 
 Advanced parts of SY
 are protected https://github.com/adico1/CreatorsAdvanced
