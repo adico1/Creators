@@ -1,19 +1,8 @@
 # Welcome Creators
 
-Sefer Hayetzira material need people with time to uncover unified deterministic computation we have overlooked. Years of competition led to non unified software development
+Creators is an open research project exploring unified, deterministic models of computation, drawing on ideas from Sefer Yetzirah and other classical texts. The goal is to bring together people working on the AZAM Kernel and related tools.
 
-I need SMART people
-to help me bring
-- Robots AZAM Kernel to light!
-- Through
-	- Unified development
-	- Sefer Hayetzira Language Technologies
-
-Check out the line I left public to understand the connection between the bibles and software development
-[[SY/פרק 1 שורה 5]](SY/chapter1line5.md)
-Advanced parts of SY
-are protected https://github.com/adico1/CreatorsAdvanced
-Contact me to be added!
+Check out the line I left public to understand the connection between the bibles and software development [[SY/5 שורה 1 פרק]](SY/chapter1line5.md). Advanced material is available in a private companion repo — reach out if you'd like access: https://github.com/adico1/CreatorsAdvanced
 
 ---
 In the meanwhile you can
