@@ -1,7 +1,8 @@
 # Welcome Creators
 
-I need smart people i can trust
-to help me bring this to light!
+Sefer Hayetzira material need people with time to uncover deterministic computation we have overlooked.
+I need SMART people
+to help me bring Sefer Hayetzira to light!
 
 Advanced parts of SY
 are protected https://github.com/adico1/CreatorsAdvanced
