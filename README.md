@@ -4,8 +4,8 @@ Sefer Hayetzira material need people with time to uncover unified deterministic 
 I need SMART people
 to help me bring Sefer Hayetzira to light!
 
-Check out the line I left public to understand the connection between the bibles and software development [[CH#1;LN#1]](SY/פרק 1 שורה 5.md)
-
+Check out the line I left public to understand the connection between the bibles and software development [[CH#1 LN#1]](SY/פרק 1 שורה 5.md)
+[[SY/פרק 1 שורה 5]](SY/chapter1line5.md)
 Advanced parts of SY
 are protected https://github.com/adico1/CreatorsAdvanced
 Contact me to be added!
