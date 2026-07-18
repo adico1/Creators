@@ -24,8 +24,8 @@ UPCOMING EXTINCIONS
 
 LIFE DISTRIBUTION AND
 **WE believe LIFE EXPANSION
-is what we are all about**
-[[BEYOND.EARTH.README]]
+is what we are all meant to be**
+[[BEYOND.EARTH.README]](BEYOND.EARTH.README.md)
 
 Biological life is expansive and take billion of years to become
 It is OUR mission to bring biological life to space
