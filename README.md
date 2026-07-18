@@ -7,13 +7,25 @@ Advanced parts of SY
 are protected https://github.com/adico1/CreatorsAdvanced
 Contact me to be added!
 
+---
+
 **Support me!**
 Buy my Sci-Fi Book
 https://adico.gumroad.com/l/TarrakRevenge
 
+---
 
+UPCOMING EXTINCIONS
+
+- Meteor killed the Dinosaurus it can happend to us!
+- Humand decide to depopulate
+- creating ROBOTS while we not yet understand ourself.
+- Biological extinctions cannot be rollled back - [[UPCOMING.EXTINCTIONS.README]]
+
+LIFE DISTRIBUTION AND
 **WE believe LIFE EXPANSION 
 is what we are all about**
+[[BEYOND.EARTH.README]]
 
 Biological life is expansive and take billion of years to become
 It is OUR mission to bring biological life to space
