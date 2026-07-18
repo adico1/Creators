@@ -1,9 +1,9 @@
 # Welcome Creators
 
-I need smart people i can trust 
+I need smart people i can trust
 to help me bring this to light!
 
-Advanced parts of SY 
+Advanced parts of SY
 are protected https://github.com/adico1/CreatorsAdvanced
 Contact me to be added!
 
@@ -20,10 +20,10 @@ UPCOMING EXTINCIONS
 - Meteor killed the Dinosaurus it can happend to us!
 - Humand decide to depopulate
 - creating ROBOTS while we not yet understand ourself.
-- Biological extinctions cannot be rollled back - [[UPCOMING.EXTINCTIONS.README]]
+- Biological extinctions cannot be rollled back - [[UPCOMING.EXTINCTIONS.README]](UPCOMING.EXTINCTIONS.README.md)
 
 LIFE DISTRIBUTION AND
-**WE believe LIFE EXPANSION 
+**WE believe LIFE EXPANSION
 is what we are all about**
 [[BEYOND.EARTH.README]]
 
