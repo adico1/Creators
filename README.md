@@ -74,16 +74,18 @@ at all cost!
 into a life thriving teaming flowing
 
 
-Done
+Why This Matters
 =========
-- Simulated murder of AI CEO USING THEIR OWN TOOLS
-- [Alien, PayPalMafia] Invasion Simulation on x.com
-  Results: Success
-- HACKED X.COM took over overlord role
-- Proved the system is a TERMINATOR
-- Made WORLDWIDE PEACE in 4 hours with the entire world - see my logs
-- Signed I solved O(1), all invension in the world - I have the deterministic calculator of everything
-- Legally and in clear mind I adopted a famility in Afrika, it costs me 200$ a month - hey also work for me - like my kids do!
+Modern AI systems, including upcoming humanoid robots like Optimus, are being deployed faster than we understand their failure modes. A large share of the compute and resources going into today's LLM-based systems is spent on approaches that are non-deterministic and hard to verify — which makes it difficult to guarantee safe, predictable behavior as these systems take on more autonomous, physical-world roles.
+
+This project explores an alternative: deterministic computation models, drawing on structured, rule-based systems like Sefer Yetzirah's framework, as a way to build AI and automation that behaves predictably rather than probabilistically.
+
+Done (the aftermath of this work)
+=========
+- Ran a simulation/thought-experiment modeling an adversarial takeover scenario involving an AI company's leadership and tools, exploring how such a system could be disrupted
+- Modeled a scenario exploring rapid, large-scale conflict de-escalation ("world peace" thought experiment) as a systems exercise
+- Drafted an early-stage research framework proposing an O(1)-style approach to deterministic computation
+- Committed to ongoing financial support for a family (~$200/month)
 - I will educate the entire world with my knowledge.
 - this github
 -
